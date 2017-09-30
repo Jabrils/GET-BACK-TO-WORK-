@@ -1,0 +1,19 @@
+c:\users\brilj\documents\visual studio 2015\Projects\GET BACK TO WORK!\GET BACK TO WORK!\bin\Debug\GET BACK TO WORK!.exe.config
+c:\users\brilj\documents\visual studio 2015\Projects\GET BACK TO WORK!\GET BACK TO WORK!\bin\Debug\GET BACK TO WORK!.exe
+c:\users\brilj\documents\visual studio 2015\Projects\GET BACK TO WORK!\GET BACK TO WORK!\bin\Debug\GET BACK TO WORK!.pdb
+c:\users\brilj\documents\visual studio 2015\Projects\GET BACK TO WORK!\GET BACK TO WORK!\obj\Debug\GET BACK TO WORK!.csprojResolveAssemblyReference.cache
+c:\users\brilj\documents\visual studio 2015\Projects\GET BACK TO WORK!\GET BACK TO WORK!\obj\Debug\GET_BACK_TO_WORK_.Properties.Resources.resources
+c:\users\brilj\documents\visual studio 2015\Projects\GET BACK TO WORK!\GET BACK TO WORK!\obj\Debug\GET BACK TO WORK!.csproj.GenerateResource.Cache
+c:\users\brilj\documents\visual studio 2015\Projects\GET BACK TO WORK!\GET BACK TO WORK!\obj\Debug\GET BACK TO WORK!.exe
+c:\users\brilj\documents\visual studio 2015\Projects\GET BACK TO WORK!\GET BACK TO WORK!\obj\Debug\GET BACK TO WORK!.pdb
+c:\users\brilj\documents\visual studio 2015\Projects\GET BACK TO WORK!\GET BACK TO WORK!\obj\Debug\GET_BACK_TO_WORK_.Form1.resources
+E:\SEFD Stuff\SEFD - 2017\SEFD Science\Super Function!\Get Back To Work\GET BACK TO WORK!\GET BACK TO WORK!\bin\Debug\GET BACK TO WORK!.exe.config
+E:\SEFD Stuff\SEFD - 2017\SEFD Science\Super Function!\Get Back To Work\GET BACK TO WORK!\GET BACK TO WORK!\bin\Debug\GET BACK TO WORK!.exe
+E:\SEFD Stuff\SEFD - 2017\SEFD Science\Super Function!\Get Back To Work\GET BACK TO WORK!\GET BACK TO WORK!\bin\Debug\GET BACK TO WORK!.pdb
+E:\SEFD Stuff\SEFD - 2017\SEFD Science\Super Function!\Get Back To Work\GET BACK TO WORK!\GET BACK TO WORK!\obj\Debug\GET BACK TO WORK!.csprojResolveAssemblyReference.cache
+E:\SEFD Stuff\SEFD - 2017\SEFD Science\Super Function!\Get Back To Work\GET BACK TO WORK!\GET BACK TO WORK!\obj\Debug\GET_BACK_TO_WORK_.Form1.resources
+E:\SEFD Stuff\SEFD - 2017\SEFD Science\Super Function!\Get Back To Work\GET BACK TO WORK!\GET BACK TO WORK!\obj\Debug\GET_BACK_TO_WORK_.Properties.Resources.resources
+E:\SEFD Stuff\SEFD - 2017\SEFD Science\Super Function!\Get Back To Work\GET BACK TO WORK!\GET BACK TO WORK!\obj\Debug\GET BACK TO WORK!.csproj.GenerateResource.Cache
+E:\SEFD Stuff\SEFD - 2017\SEFD Science\Super Function!\Get Back To Work\GET BACK TO WORK!\GET BACK TO WORK!\obj\Debug\GET BACK TO WORK!.csproj.CoreCompileInputs.cache
+E:\SEFD Stuff\SEFD - 2017\SEFD Science\Super Function!\Get Back To Work\GET BACK TO WORK!\GET BACK TO WORK!\obj\Debug\GET BACK TO WORK!.exe
+E:\SEFD Stuff\SEFD - 2017\SEFD Science\Super Function!\Get Back To Work\GET BACK TO WORK!\GET BACK TO WORK!\obj\Debug\GET BACK TO WORK!.pdb
